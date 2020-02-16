@@ -1,0 +1,23 @@
+html,body {
+    background-image: url("https://images.unsplash.com/photo-1579159279464-d12b399393a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80") ;
+}
+h1 {
+    font-family: 'Modak', cursive;
+    color: #0f1216;
+    font-size: 50px;
+    
+}
+p{
+    font-family: 'Arvo', serif;
+    color: purple;
+    font-size: 18px;
+}
+
+.container-sm {
+    margin-top: 125px;
+    margin-bottom: 0;
+    border: 5px solid #756971;
+    background-color: #eae7ed;
+    text-align: center;
+}
+
